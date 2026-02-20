@@ -29,4 +29,4 @@ All generated charts are saved in the outputs/ directory.
 ![Trade Size by Sentiment](trade_size.png)
 
 ## Author
-Candidate – Data Science Intern Assignment
+Pranalee Nanaware – Data Science Intern Assignment
