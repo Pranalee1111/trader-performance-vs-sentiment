@@ -19,5 +19,14 @@ Open notebook.ipynb and run all cells sequentially.
 ## Outputs
 All generated charts are saved in the outputs/ directory.
 
+### Daily PnL by Market Sentiment
+![Daily PnL by Market Sentiment](outputs/pnl_by_sentiment.png)
+
+### Trade Frequency by Sentiment
+![Trade Frequency by Sentiment](outputs/trade_frequency.png)
+
+### Trade Size by Sentiment
+![Trade Size by Sentiment](outputs/trade_size.png)
+
 ## Author
 Candidate – Data Science Intern Assignment
